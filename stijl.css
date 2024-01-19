@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: ivory;
+    width: 100%;
+}
+
+.btn {
+    background-color: blue;
+}
+
+.btn:hover {
+    background-color: darkblue;
+}
+
+img{
+ height: 600px;
+}
+
+footer{
+    font-size: 10px;
+    min-height: 200px;
+} 
+
